@@ -1,5 +1,5 @@
   👋 Hi, I'm Usman Khalid  
-  🎯 Data Analyst with 4+ years experience turning data into business impact.  
+  🎯 Data Professional with 4+ years experience turning data into business impact.  
   💻 Certified Google BI Analyst  
   🧰 Skills: Python, SQL, Tableau, Snowflake, BigQuery, Excel  
   📊 Focus: Business Intelligence • Data Quality • Automation • Database Modelling & Optimization  
