@@ -5,3 +5,5 @@
   📊 Focus: Business Intelligence • Data Quality • Automation • Database Modelling & Optimization  
   🇨🇦 Based in Toronto | Open to Remote/Hybrid/Office Roles in Ontario  
   🌱 I’m currently learning: Snowflake Gen AI, ETL Pipelines  
+
+https://public.tableau.com/app/profile/usman.khalid4491/vizzes
